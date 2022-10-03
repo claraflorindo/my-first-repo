@@ -1,4 +1,6 @@
+
 def sumardos(a,b):
+
     return a+b
 
 
@@ -11,7 +13,3 @@ def sumardos(a,b):
 
 #para hacer pull de git a visual : git pull origin master
 
-#guardar un cambio : 
-#git add file.py
-#git commit -m "rename the function to clara"
-#--> esto lo hace en local
