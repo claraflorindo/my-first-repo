@@ -1,4 +1,4 @@
-def clara(a,b):
+def sumardos(a,b):
     return a+b
 
 
